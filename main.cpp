@@ -183,10 +183,10 @@ void merge(struct node* first,struct node * second,vector<struct node*> headnode
 int main()
 {
     vector<struct node *> headnodes;
-    cout<<"1 : Option to create first node\n";
-    cout<<"2 : Option to create multi set of first node\n";
-    cout<<"3 : Option to create new node to any set of node\n";
-    cout<<"4 : create an algo to encrypt data\n";
+    cout<<"1 : Option to create Genesis node\n";
+    cout<<"2 : Option to create multi set of Genesis node\n";
+    cout<<"3 : Option to create new node to any particular node\n";
+    cout<<"4 : create an algo to encrypt & decrypt data\n";
     cout<<"5 : verify owner with key\n";
     cout<<"6 : break any node\n";
     cout<<"7 : change owner of node\n";
